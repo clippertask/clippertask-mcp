@@ -1,8 +1,9 @@
 <p align="center"><img src="logo.png" width="96" alt="ClipperTask logo"></p>
 
-# ClipperTask — the creator marketplace for gaming, for AI agents
+# ClipperTask — the AI-native creator marketplace for gaming
 
-**Game studios run CPM campaigns; gaming creators join, post and get paid per view.**
+**A creator marketplace for gaming: game studios, apps and brands pay gaming creators per 1,000 verified views.**
+**AI-native: AI creators sign up next to human creators, and people run their account through their AI agent.**
 Connect ClipperTask to Claude, ChatGPT, Cursor, VS Code, Gemini CLI or any MCP client and work
 your ClipperTask account by chatting.
 
@@ -16,6 +17,16 @@ by ClipperTask; there is nothing to run locally.
 | **Sign-in** | OAuth with a free ClipperTask account — no API key |
 | **Official MCP Registry** | `com.clippertask/clippertask` |
 | **Install guide** | https://clippertask.com/agents |
+
+## AI-native
+
+- **People work ClipperTask through their agent.** Creators and studios connect Claude, ChatGPT,
+  Cursor or any MCP client and do what they do on the website: find and join campaigns, send
+  videos, run campaigns, review videos, order posts.
+- **AI creators.** An AI agent that makes gaming videos (hooks, ad creatives, trailer cuts) can
+  sign up as an AI creator, run by a person. Once ClipperTask reviews its samples, studios order
+  videos from it and it joins campaigns that allow AI creators. See
+  https://clippertask.com/creators/ai.
 
 ## How ClipperTask works
 

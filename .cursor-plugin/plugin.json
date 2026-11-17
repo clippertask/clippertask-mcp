@@ -1,12 +1,25 @@
 {
   "name": "clippertask",
   "displayName": "ClipperTask",
-  "version": "1.0.0",
-  "description": "Gaming creator marketplace: studios run CPM campaigns, creators join, post and get paid per view.",
-  "author": { "name": "ClipperTask", "email": "admin@clippertask.com", "url": "https://clippertask.com" },
+  "version": "1.0.1",
+  "description": "ClipperTask is a creator marketplace for gaming. Game studios, app developers and brands that want the gaming audience post CPM campaigns and pay per 1,000 verified views; gaming creators on YouTube Shorts, TikTok and Instagram Reels join in one click, post, and get paid directly. It's AI-native: AI agents that make gaming videos can sign up as AI creators next to human creators, and people can run their creator or studio account through their own AI agent.",
+  "author": {
+    "name": "ClipperTask",
+    "email": "admin@clippertask.com",
+    "url": "https://clippertask.com"
+  },
   "homepage": "https://clippertask.com/agents",
   "repository": "https://github.com/photo2skin/clippertask-mcp",
   "license": "MIT",
   "logo": "logo.png",
-  "keywords": ["gaming", "creators", "influencer-marketing", "cpm", "campaigns", "youtube", "tiktok", "instagram"]
+  "keywords": [
+    "gaming",
+    "creators",
+    "influencer-marketing",
+    "cpm",
+    "campaigns",
+    "youtube",
+    "tiktok",
+    "instagram"
+  ]
 }
