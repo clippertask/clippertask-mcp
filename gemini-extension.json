@@ -1,0 +1,11 @@
+{
+  "name": "clippertask",
+  "version": "1.0.0",
+  "description": "Gaming creator marketplace: studios run CPM campaigns, creators join, post and get paid per view.",
+  "mcpServers": {
+    "clippertask": {
+      "httpUrl": "https://mcp.clippertask.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

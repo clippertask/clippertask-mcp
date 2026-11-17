@@ -1,0 +1,15 @@
+{
+  "name": "clippertask",
+  "description": "ClipperTask for Claude Code: the creator marketplace for gaming, for creators and game studios.",
+  "owner": {
+    "name": "ClipperTask",
+    "email": "admin@clippertask.com"
+  },
+  "plugins": [
+    {
+      "name": "clippertask",
+      "source": "./",
+      "description": "Gaming creator marketplace: studios run CPM campaigns, creators join, post and get paid per view."
+    }
+  ]
+}

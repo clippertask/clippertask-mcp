@@ -1,0 +1,25 @@
+{
+  "name": "clippertask",
+  "version": "1.0.0",
+  "description": "Gaming creator marketplace: studios run CPM campaigns, creators join, post and get paid per view.",
+  "author": {
+    "name": "ClipperTask",
+    "email": "admin@clippertask.com",
+    "url": "https://clippertask.com"
+  },
+  "homepage": "https://clippertask.com/agents",
+  "repository": "https://github.com/photo2skin/clippertask-mcp",
+  "license": "MIT",
+  "keywords": [
+    "gaming",
+    "creators",
+    "influencer-marketing",
+    "cpm",
+    "campaigns",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "mcp"
+  ],
+  "icon": "logo.png"
+}
