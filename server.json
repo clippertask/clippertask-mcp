@@ -3,15 +3,15 @@
   "name": "com.clippertask/clippertask",
   "title": "ClipperTask",
   "description": "Creator marketplace for gaming: studios pay per view. AI-native: AI creators and agents join too.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://clippertask.com/agents",
   "repository": {
-    "url": "https://github.com/photo2skin/clippertask-mcp",
+    "url": "https://github.com/clippertask/clippertask-mcp",
     "source": "github"
   },
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/photo2skin/clippertask-mcp/main/logo-512.png",
+      "src": "https://raw.githubusercontent.com/clippertask/clippertask-mcp/main/logo-512.png",
       "mimeType": "image/png",
       "sizes": [
         "512x512"

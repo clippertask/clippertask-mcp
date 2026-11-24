@@ -48,7 +48,7 @@ claude mcp add --transport http clippertask https://mcp.clippertask.com/mcp
 or as a plugin, with the skill included:
 
 ```
-/plugin marketplace add photo2skin/clippertask-mcp
+/plugin marketplace add clippertask/clippertask-mcp
 /plugin install clippertask@clippertask
 ```
 
@@ -68,7 +68,7 @@ or as a plugin, with the skill included:
 **Gemini CLI**
 
 ```bash
-gemini extensions install https://github.com/photo2skin/clippertask-mcp
+gemini extensions install https://github.com/clippertask/clippertask-mcp
 ```
 
 The first time a tool runs, your app opens ClipperTask's sign-in page; sign in and press Allow.
