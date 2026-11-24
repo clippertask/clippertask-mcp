@@ -35,7 +35,6 @@ the platforms, a deadline and a brief. ClipperTask reviews every campaign before
 Creators on YouTube, TikTok and Instagram join in one click, post a video and send its link.
 ClipperTask reads the views and works out what each video earned; the studio approves or rejects
 the video and pays the creator directly. Studios can also order a post from one creator (a deal).
-ClipperTask never handles money.
 
 ## Install
 
